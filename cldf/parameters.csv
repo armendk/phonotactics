@@ -1,0 +1,184 @@
+ID,Name,Description,datatype
+Maximalonset,Maximal onset,How many C are allowed in the onset of a syllable,integer
+Maximalcoda,Maximal coda,How many C are allowed in the coda of a syllable,integer
+CVlanguage,CV language,Whether the language maximally allows CV syllables,boolean
+CVClanguage,CVC language,Whether the language maximally allows CVC syllables,boolean
+CCVlanguage,CCV language,Whether the language maximally allows CCV syllables,boolean
+CCVClanguage,CCVC language,Whether the language maximally allows CCVC syllables,boolean
+MaximalCVcontrasts,Maximal CV contrasts,,integer
+Arezeroonsetsallowed,Are zero onsets allowed?,Whether the language allows null onsets,string
+Codasrequireonsets,Codas require onsets,Whether the presence of an onset can be predicted from the presence of a coda,boolean
+OnsetsecondCispreferentiallyglide,Onset second C is preferentially glide,Whether the second consonant is preferentially a glide,boolean
+AnyGlides,Any Glides?,Does the language have glides?,boolean
+OnsetsecondCy,Onset second C = y,C2 glide is preferentially palatal?,boolean
+OnsetsecondCw,Onset second C = w,C2 glide is preferentially labiovelar?,boolean
+OnsetsecondCispreferentiallyliquid,Onset second C is preferentially liquid,Whether the second C is preferentially a liquid,boolean
+Anyrhotics,Any rhotics?,Does the language have rhotics?,boolean
+Anylaterals,Any laterals?,Does the language have laterals?,boolean
+Liquidrlike,Liquid = r(-like),C2 liquid is preferentially rhotic?,boolean
+Liquidelllike,Liquid = ell(-like),C2 liquid is preferentially lateral?,boolean
+Codaptkglottal,Coda = p t k glottal,"Whether the code is preferentially a voiceless stop, such as [p], [t], [k] or [_]",boolean
+Codaglottalstop,Coda = glottal stop,Whether the coda is preferentially a glottal stop,boolean
+PalatalsAffricatestscetcallowedascoda,"Palatals/Affricates (ts, c etc.) allowed as coda","Whether the code can be [ts]~[t]~[c]: some sort of post-coronal, pre-velar plosive",boolean
+Codanasal,Coda = nasal,Whether the coda is preferentially a nasal,boolean
+Codang,Coda = ng,Whether the coda is preferentially a velar stop,boolean
+Codarl,Coda = r l,Whether the coda is preferentially a liquid,boolean
+Codas,Coda = s,Whether the code is preferentially [s],boolean
+Codaglide,Coda = glide,Whether the code is preferentially a glide,boolean
+C1inaCCcodanasal,C1 in a CC coda = nasal,Whether C1 in a coda of the form C1C2 C1 is preferentially nasal,boolean
+C1inaCCcodaliquid,C1 in a CC coda = liquid,Whether C1 in a coda of the form C1C2 C1 is preferentially liquid,boolean
+C1inaCCcodaglide,C1 in a CC coda = glide,Whether C1 in coda of the form C1C2 C1 is preferentially glide,boolean
+C1inaCCcodaglottalstop,C1 in a CC coda = glottal stop,Whether C1 in a coda of the form C1C2 C1 is preferentially a glottal stop,boolean
+C2inaCCcodas,C2 in a CC coda = s,Whether C2 in a coda of the form C1C2 C1 is preferentially /s/,boolean
+Sesquisyllabicepenthesis,Sesquisyllabic epenthesis,Whether the language displays epenthesis between two initial consonants,boolean
+Generalepenthesis,General epenthesis,Whether the language generally epenthesises vowels between two adjacent consonants,boolean
+Syllabicconsonants,Syllabic consonants,Whether the language allows syllabic consonants,boolean
+Syllabicnasals,Syllabic nasals,Whether the language allows syllabic nasals,boolean
+Syllabicnonnasals,Syllabic non-nasals,Whether the language allows syllabic consonants other than nasals,boolean
+Glottalstopsinonsets,Glottal stops in onsets?,Whether a glottal stop can occur in an onset,boolean
+Glottalstopsincodas,Glottal stops in codas?,Whether a glottal stop can occur in a coda,boolean
+Velarnasalsinonsets,Velar nasals in onsets?,Whether a velar nasal can occur in an onset,boolean
+Velarnasalsincodas,Velar nasals in codas?,Whether a velar nasal can occur in a coda,boolean
+Totalconsonants,Total consonants,,integer
+Totalvowels,Total vowels,,integer
+Tonalcontrasts,Tonal contrasts,,integer
+Creakytones,Creaky tones,,integer
+Breathytones,Breathy tones,,integer
+Anybreathiness,Any breathiness,,integer
+Totalobstruents,Total obstruents,,integer
+Totalsonorants,Total sonorants,,integer
+Totalegressiveconsonants,Total egressive consonants,,integer
+Totalplosives,Total plosives,,integer
+SupralaryngealPlosiveplaces,Supralaryngeal Plosive places,,integer
+SupralaryngealPlosiveseries,Supralaryngeal Plosive series,Includes contrasting affricate series,integer
+Plosivemanners,Plosive manners,,integer
+Voicelessplosives,Voiceless plosives?,,boolean
+Voicedplosives,Voiced plosives?,,boolean
+Aspiratedplosives,Aspirated plosives?,,boolean
+Ejectiveplosives,Ejective plosives?,,boolean
+Implodedglottalisedplosives,Imploded/glottalised plosives?,,boolean
+Prenasalisedplosives,Prenasalised plosives?,,boolean
+Prenasalisedvoicelessplosives,Prenasalised voiceless plosives?,,boolean
+Prenasalisedaspiratedplosives,Prenasalised aspirated plosives?,,boolean
+Prenasalisedbreathyplosives,Prenasalised breathy plosives?,,boolean
+Fullyvoicelessprenasalisedplosives,Fully voiceless prenasalised plosives?,,boolean
+Postnasalisedplosives,Postnasalised plosives?,,boolean
+Breathyplosives,Breathy plosives?,,boolean
+Pharyngealisedplosives,Pharyngealised plosives,,boolean
+Roundedplosives,Rounded plosives?,,boolean
+Labialvelarstops,Labialvelar stops?,,boolean
+Uvularstops,Uvular stops?,,boolean
+glottalstops,glottal stop(s),,boolean
+Coronalcontrastsinstops,Coronal contrasts in stops?,,boolean
+Howmanycoronalstopplacesoralarethere,How many coronal stop places (oral) are there?,,integer
+Coronalaffricates,Coronal affricates?,,boolean
+Howmanycoronalaffricateseriesarethere,How many coronal affricate series are there?,,integer
+Bilabialplosives,Bilabial plosives,,boolean
+Linguolabialplosives,Linguolabial plosives,,boolean
+Dentalplosives,Dental plosives,,boolean
+Alveolarplosives,Alveolar plosives,,boolean
+Retroflexplosives,Retroflex plosives,,boolean
+Palatalplosives,Palatal plosives,,boolean
+Prevelarplosives,Prevelar plosives,,boolean
+Velarplosives,Velar plosives,,boolean
+Uvularplosives,Uvular plosives,,boolean
+Epiglottalplosives,Epiglottal plosives,,boolean
+Gapforp,Gap for /p/?,,boolean
+Gapforc,Gap for /c/?,,boolean
+Gapforj,Gap for /j/?,,boolean
+Gapforg,Gap for /g/?,,boolean
+Gapsforbothpandc,Gaps for both /p/ and /c/?,,boolean
+Gapsforbothjandg,Gaps for both /j/ and /g/?,,boolean
+Gapsforbothpandg,Gaps for both /p/ and /g/?,,boolean
+Unexpectedbcontrast,Unexpected /b/ contrast?,,boolean
+Unexpecteddcontrast,Unexpected /d/ contrast?,,boolean
+Unexpectedjcontrast,Unexpected /j/ contrast?,,boolean
+Unexpectedgcontrast,Unexpected /g/ contrast?,,boolean
+tmorefrontthand,t more front than d?,Voiceless coronal stop more front than voiced counterpart?,boolean
+dmorefrontthant,d more front than t?,Voiced coronal stop more front than voiceless counterpart?,boolean
+Plosivespace,Plosive space,,integer
+Plosivetransparency,Plosive transparency,,number
+Plosivedimensions,Plosive dimensions,,integer
+Plosiveseriesrarity,Plosive series rarity,,number
+Plosivemannerrarity,Plosive manner rarity,,number
+Nasalstops,Nasal stops?,,boolean
+Totalnasals,Total nasals,,integer
+Nasalplaces,Nasal places,,integer
+Nasalmanners,Nasal manners,,integer
+Glottalisednasals,Glottalised nasals?,,boolean
+Voicelessnasals,Voiceless nasals?,,boolean
+Breathynasals,Breathy nasals?,,boolean
+Roundednasals,Rounded nasals?,,boolean
+labiodentalnasals,labiodental nasals,,boolean
+Howmanycoronalnasalplacesarethere,How many coronal nasal places are there?,,integer
+retroflexnasals,retroflex nasals,,boolean
+palatalnasals,palatal nasals,,boolean
+Velarnasals,Velar nasals?,,boolean
+uvularnasals,uvular nasals,,boolean
+labialvelarnasals,labialvelar nasals,,boolean
+Fricatives,Fricatives?,,boolean
+Totalfricatives,Total fricatives,,integer
+Fricativemanners,Fricative manners,,integer
+Voicelessfricatives,Voiceless fricatives?,,boolean
+Voicedfricatives,Voiced fricatives?,,boolean
+Glottalisedfricatives,Glottalised fricatives?,,boolean
+Aspiratedfricatives,Aspirated fricatives?,,boolean
+Roundedfricatives,Rounded fricatives?,,boolean
+Prenasalisedfricatives,Prenasalised fricatives?,,boolean
+Ejectivefricatives,Ejective fricatives?,,boolean
+Dentalfricatives,Dental fricatives?,,boolean
+Lateralfricatives,Lateral fricatives?,,boolean
+Retroflexfricatives,Retroflex fricatives,,boolean
+Dorsalfricatives,Dorsal fricatives?,,boolean
+Pharyngealfricatives,Pharyngeal fricatives,,boolean
+Anyliquids,Any liquids?,,boolean
+Totalliquids,Total liquids,,integer
+Bilabialtrills,Bilabial trills?,,boolean
+Totalrhotics,Total rhotics,,integer
+Totallateral,Total lateral,,integer
+Lateralplaces,Lateral places,,integer
+Liquidmanners,Liquid manners,,integer
+Voicelessliquids,Voiceless liquids?,,boolean
+Glottalisedliquids,Glottalised liquids?,,boolean
+Breathyliquids,Breathy liquids?,,boolean
+Retroflexlaterals,Retroflex laterals?,,boolean
+Palatallaterals,Palatal laterals?,,boolean
+Velarlaterals,Velar laterals?,,boolean
+Clicks,Clicks?,,boolean
+Totalclicks,Total clicks,,integer
+Bilabialclicks,Bilabial clicks?,,boolean
+Dentalclicks,Dental clicks?,,boolean
+Alveolarclicks,Alveolar clicks?,,boolean
+Lateralclicks,Lateral clicks?,,boolean
+Postalveolarclicks,Postalveolar clicks?,,boolean
+Palatalclicks,Palatal clicks?,,boolean
+Glides,Glides?,,boolean
+Glideseries,Glide series,,integer
+Glidemanners,Glide manners,,integer
+Glottalisedglides,Glottalised glides?,,boolean
+Voicelessglides,Voiceless glides?,,boolean
+Breathyglides,Breathy glides?,,boolean
+Linguolabials,Linguolabials?,,boolean
+Uvularconsonants,Uvular consonants?,,boolean
+Glottalisedsonorants,Glottalised sonorants?,,boolean
+Voicelesssonorants,Voiceless sonorants?,,boolean
+Breathysonorants,Breathy sonorants?,,boolean
+Longvowels,Long vowels?,,boolean
+Nasalisedvowels,Nasalised vowels?,,boolean
+Frontroundedvowels,Front rounded vowels?,,boolean
+Contrastivevowelheights,Contrastive vowel heights?,,integer
+Toplessvowelsystemnoioru,Topless vowel system (no /i/ or /u/),,boolean
+Bottomlessvowelsystemnoa,Bottomless vowel system (no /a/),,boolean
+Interiorvowelsystemcontainsschwabarredietc,"Interior vowel system (contains schwa, barred-i etc.)",,boolean
+Contrastivevowelphonations,Contrastive vowel phonations,,integer
+Creakyvowels,Creaky vowels,,boolean
+Breathyvowels,Breathy vowels,,boolean
+Pharyngealisedvowels,Pharyngealised vowels,,boolean
+Tensevowels,Tense vowels,,boolean
+Voicelessvowels,Voiceless vowels,,boolean
+SOV,SOV,,boolean
+SVO,SVO,,boolean
+VSO,VSO,,boolean
+VOS,VOS,,boolean
+OVS,OVS,,boolean
+OSV,OSV,,boolean

@@ -1,0 +1,29 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1,Lineage_2,Lineage_3,Lineage_4,Lineage_5,Isolate,WALS_Area,Autotyp,Country,Ancient,Papuan,Altitude,Eastness,Ethnologue_Ethnic_Population,Adjusted_Population,Social_Region
+1252,Shanghai,Eurasia,31.0,121.0,shan1293,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,141.0,30000000,30000000,MiddleOldWorld
+1455,Hangzhou,Eurasia,30.25,120.167,hang1257,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,140.167,8700000,8700000,MiddleOldWorld
+2061,Suzhou,Eurasia,31.3,120.6,suzh1234,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,Eurasia,Southeast Asia,CN,false,false,8.0,140.6,9999999,9999999,MiddleOldWorld
+2501,Wenzhou,Eurasia,28.0,120.7,ouji1238,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,140.7,5000000,5000000,MiddleOldWorld
+3700,Chengqiao,Eurasia,31.63,121.4,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1.0,141.4,799999,799999,MiddleOldWorld
+3735,Jiading,Eurasia,31.5,121.25,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,141.25,799999,799999,MiddleOldWorld
+3774,Liantang,Eurasia,31.007,121.05,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,5.0,141.05,799999,799999,MiddleOldWorld
+3827,Shaoxing,Eurasia,30.0,120.917,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,140.917,799999,799999,MiddleOldWorld
+3836,Songjiang,Eurasia,30.667,121.167,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,141.167,799999,799999,MiddleOldWorld
+3878,Yongkang,Eurasia,37.0,112.5,wuch1236,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1620.0,132.5,799999,799999,MiddleOldWorld
+3882,Zhenjiang,Eurasia,32.167,119.5,nort3273,wuu,Tibeto-Burman,Sinitic,Wu,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,0.0,139.5,799999,799999,MiddleOldWorld
+1378,Galo,Eurasia,28.0,94.75,bori1243,adi,Tibeto-Burman,Tani,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,720.0,114.75,35000,35000,MiddleOldWorld
+1391,Bokar,Eurasia,29.0,94.35,bori1243,adi,Tibeto-Burman,Tani,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,2200.0,114.35,3052,3052,MiddleOldWorld
+2101,Bengni,Eurasia,28.66,93.37,bori1243,adi,Tibeto-Burman,Tani,,,,,false,SE Asia & Oceania,Northern Eurasia,CN,false,false,2900.0,113.37,1500,1500,MiddleOldWorld
+2947,Milang,Eurasia,28.98,94.9,bori1243,adi,Tibeto-Burman,Tani,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,485.0,114.9,9999,9999,MiddleOldWorld
+3343,Padam,Eurasia,28.68,94.98,bori1243,adi,Tibeto-Burman,Tani,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,450.0,114.98,9999,9999,MiddleOldWorld
+3421,Bori,Eurasia,28.2,94.6,bori1243,adi,Tibeto-Burman,Tani,,,,,false,Eurasia,South Asia,IN,false,false,850.0,114.6,1852,1852,MiddleOldWorld
+3423,Karko,Eurasia,28.0,94.75,kark1255,adi,Tibeto-Burman,Tani,,,,,false,Eurasia,South Asia,IN,false,false,1670.0,114.75,1795,1795,MiddleOldWorld
+3424,Pailibo,Eurasia,28.7,94.3,bori1243,adi,Tibeto-Burman,Tani,,,,,false,Eurasia,South Asia,IN,false,false,1800.0,114.3,1200,1200,MiddleOldWorld
+3425,Ramo,Eurasia,28.8,94.2,bori1243,adi,Tibeto-Burman,Tani,,,,,false,Eurasia,South Asia,IN,false,false,1850.0,114.2,600,600,MiddleOldWorld
+3427,Tangam,Eurasia,29.0,95.2,bori1243,adi,Tibeto-Burman,Tani,,,,,false,Eurasia,South Asia,IN,false,false,1800.0,115.2,9999,9999,MiddleOldWorld
+995,Lhasa_Tibetan,Eurasia,29.65,91.14,utsa1239,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,Northern Eurasia,CN,false,false,3660.0,111.0,1277620,1277620,MiddleOldWorld
+1253,Spiti,Eurasia,32.75,77.75,tibe1272,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Western,,false,SE Asia & Oceania,South Asia,IN,false,false,4608.0,97.75,10000,10000,MiddleOldWorld
+1400,Kyirong_Tibetan,Eurasia,28.4,85.2,kyir1236,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,South Asia,CN,false,false,3000.0,105.2,,49999,MiddleOldWorld
+1471,Dingri,Eurasia,28.567,86.633,ding1243,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,Northern Eurasia,CN,false,false,4310.0,106.633,,49999,MiddleOldWorld
+1473,Drokpa,Eurasia,29.05,84.5,west2905,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,South Asia,CN,false,false,5000.0,104.5,,49999,MiddleOldWorld
+1485,Shigatse,Eurasia,29.26,88.88,shig1238,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,Northern Eurasia,CN,false,false,3840.0,108.88,,49999,MiddleOldWorld
+3924,Gyalsumdo,Eurasia,28.552,84.24,tibe1272,bod,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,South Asia,NP,false,false,2770.0,104.24,999,999,MiddleOldWorld
