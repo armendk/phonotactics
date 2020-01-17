@@ -1,6 +1,5 @@
 import re
 import pathlib
-import itertools
 import collections
 
 import pycountry
@@ -10,6 +9,7 @@ from cldfbench import CLDFSpec
 from csvw import TableGroup
 
 URL = "https://zenodo.org/record/815506/files/phonotactics.csv"
+# Columns we consider language metadata, rather than proper parameters:
 LDATA = collections.OrderedDict([
     ('ID', ('ID', None)),
     ('Language', ('Name', None)),
@@ -44,6 +44,20 @@ class Dataset(BaseDataset):
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
 
+    def cmd_readme(self, args):
+        lines, title_found = [], False
+        for line in super().cmd_readme(args).split('\n'):
+            lines.append(line)
+            if line.startswith('# ') and not title_found:
+                title_found = True
+                lines.extend([
+                    '',
+                    "[![Build Status](https://travis-ci.org/cldf-datasets/phonotactics.svg?branch=master)]"
+                    "(https://travis-ci.org/cldf-datasets/phonotactics)"
+                ])
+        lines.extend(['', self.dir.joinpath('NOTES.md').read_text(encoding='utf8')])
+        return '\n'.join(lines)
+
     def cmd_download(self, args):
         self.raw_dir.download(URL + '?download=1', 'phonotactics.csv')
         self.raw_dir.download(URL + '-metadata.json?download=1', 'metadata.json')
@@ -61,25 +75,37 @@ class Dataset(BaseDataset):
             if dtype:
                 lcols.append(dict(name=col, datatype=dtype))
         args.writer.cldf.add_component('LanguageTable', *lcols)
-        args.writer.cldf.add_component('ParameterTable', 'datatype')
+        args.writer.cldf.add_component(
+            'ParameterTable',
+            {'name': 'datatype', 'datatype': {'base': 'string', 'format': 'boolean|number|integer'}},
+            'min',
+            'max')
         args.writer.cldf.remove_columns('ValueTable', 'Comment', 'Source')
 
         iso2gc = {l.iso: l.id for l in args.glottolog.api.languoids() if l.iso}
         dt_map = {
-            r['Parameter_ID']: r['datatype'] for r in self.etc_dir.read_csv('parameters.csv', dicts=True)}
+            r['Parameter_ID']: r['datatype']
+            for r in self.etc_dir.read_csv('parameters.csv', dicts=True)}
 
         tg = TableGroup.from_file(self.raw_dir / 'metadata.json')
+        colmap = {}
         seen = set()
         for col in tg.tables[0].tableSchema.columns:
             if col.header not in LDATA:
                 pid = parameter_id(col.header)
                 if pid not in seen:
-                    args.writer.objects['ParameterTable'].append({
+                    col.datatype.base = dt_map.get(pid, col.datatype.base)
+                    colmap[pid] = col.datatype
+                    kw = {
                         'ID': pid,
                         'Name': col.header,
                         'Description': col.common_props['dc:description'].strip() or None,
-                        'datatype': dt_map.get(pid, col.datatype.base),
-                    })
+                        'datatype': col.datatype.base,
+                    }
+                    if col.datatype.minimum is not None:
+                        kw['min'] = col.datatype.minimum
+                        kw['max'] = col.datatype.maximum
+                    args.writer.objects['ParameterTable'].append(kw)
                     seen.add(pid)
 
         gc_map = {
@@ -105,7 +131,12 @@ class Dataset(BaseDataset):
             for col, val in row.items():
                 if val is None:
                     continue
-                pid = slug(col, lowercase=False)
+                pid = parameter_id(col)
+                dtype = colmap[pid]
+                if dtype.base in ('integer', 'number'):
+                    assert dtype.minimum <= val <= dtype.maximum
+                elif dtype.base == 'boolean':
+                    val = {True: 'yes', False: 'no'}[val]
                 if (lid, pid) in vals:
                     assert vals[lid, pid] == val
                     continue

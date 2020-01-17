@@ -146,7 +146,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 145,Yawuru,Australia,-18.0,122.5,yawu1244,ywr,Nyulnyul,East,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,5.0,142.5,30,199,Aust_NG_Mel
 146,Adynyamathanha,Australia,-30.5,139.5,adny1235,adt,Pama-Nyungan,Yura,,,,,false,Australia-New Guinea,Australia,AU,false,false,54.0,159.5,130,199,Aust_NG_Mel
 147,Alyawarr,Australia,-24.0,134.5,alya1239,aly,Pama-Nyungan,Arandic,,,,,false,Australia-New Guinea,Australia,AU,false,false,497.0,154.5,1450,1450,Aust_NG_Mel
-148,Anguthimri,Australia,-12.333,141.833,,xxx,Pama-Nyungan,North Cape York,Northern Paman,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,161.833,0,199,Aust_NG_Mel
+148,Anguthimri,Australia,-12.333,141.833,angu1242,xxx,Pama-Nyungan,North Cape York,Northern Paman,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,161.833,0,199,Aust_NG_Mel
 149,Arabana,Australia,-28.0,137.0,arab1267,ard,Pama-Nyungan,Karnic,,,,,false,Australia-New Guinea,Australia,AU,false,false,37.0,157.0,0,199,Aust_NG_Mel
 150,Arrernte_Mparntwe,Australia,-24.0,136.0,east2379,aer,Pama-Nyungan,Arandic,,,,,false,Australia-New Guinea,Australia,AU,false,false,260.0,156.0,3820,3820,Aust_NG_Mel
 151,Arrernte_Central,Australia,-23.0,134.5,west2441,are,Pama-Nyungan,Arandic,,,,,false,Australia-New Guinea,Australia,AU,false,false,837.0,154.5,1000,1000,Aust_NG_Mel
@@ -196,8 +196,8 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 195,Warlpiri,Australia,-20.0,132.333,warl1254,wbp,Pama-Nyungan,Ngumbin-Yapa,,,,,false,Australia-New Guinea,Australia,AU,false,false,314.0,152.333,2670,2670,Aust_NG_Mel
 196,Warluwara,Australia,-22.0,139.0,warl1256,wrb,Pama-Nyungan,Ngarna,,,,,false,Australia-New Guinea,Australia,AU,false,false,166.0,159.0,0,199,Aust_NG_Mel
 197,Warrgamay,Australia,-18.583,146.167,warr1255,wgy,Pama-Nyungan,Dyirbalic,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,30.0,166.167,3,199,Aust_NG_Mel
-198,Warrnambool,Australia,-38.25,142.5,,xxx,Pama-Nyungan,Kulin,,,,,false,Australia-New Guinea,Australia,AU,false,false,66.0,162.5,0,199,Aust_NG_Mel
-199,Wathawurrung,Australia,-38.0,144.0,,xxx,Pama-Nyungan,Kulin,,,,,false,Australia-New Guinea,Australia,AU,false,false,166.0,164.0,0,199,Aust_NG_Mel
+198,Warrnambool,Australia,-38.25,142.5,warr1257,xxx,Pama-Nyungan,Kulin,,,,,false,Australia-New Guinea,Australia,AU,false,false,66.0,162.5,0,199,Aust_NG_Mel
+199,Wathawurrung,Australia,-38.0,144.0,wath1238,xxx,Pama-Nyungan,Kulin,,,,,false,Australia-New Guinea,Australia,AU,false,false,166.0,164.0,0,199,Aust_NG_Mel
 200,Watjarri,Australia,-28.167,117.25,waja1257,wbv,Pama-Nyungan,Kardu,,,,,false,Australia-New Guinea,Australia,AU,false,false,398.0,137.25,50,199,Aust_NG_Mel
 201,Wembawemba,Australia,-36.0,142.0,,xxx,Pama-Nyungan,Kulin,,,,,false,Australia-New Guinea,Australia,AU,false,false,73.0,162.0,0,199,Aust_NG_Mel
 202,Wik Mungkan,Australia,-13.667,141.833,wikm1247,wim,Pama-Nyungan,North Cape York,Northern Paman,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,161.833,840,840,Aust_NG_Mel
@@ -205,7 +205,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 204,Wirangu,Australia,-32.0,134.0,wira1260,wiw,Pama-Nyungan,Wirangu,,,,,false,Australia-New Guinea,Australia,AU,false,false,71.0,154.0,2,199,Aust_NG_Mel
 205,Yankuntjatjara,Australia,-27.0,132.0,yank1247,kdd,Pama-Nyungan,Western Desert,,,,,false,Australia-New Guinea,Australia,AU,false,false,491.0,152.0,73,199,Aust_NG_Mel
 206,Yanyuwa,Australia,-15.833,136.0,yany1243,jao,Pama-Nyungan,Ngarna,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,95.0,156.0,52,199,Aust_NG_Mel
-207,Yaygir,Australia,-29.667,153.0,,xxx,Pama-Nyungan,Central-East,,,,,false,Australia-New Guinea,Australia,AU,false,false,0.0,173.0,0,199,Aust_NG_Mel
+207,Yaygir,Australia,-29.667,153.0,yayg1236,xxx,Pama-Nyungan,Central-East,,,,,false,Australia-New Guinea,Australia,AU,false,false,0.0,173.0,0,199,Aust_NG_Mel
 208,Yidiny,Australia,-17.917,146.09,yidi1250,yii,Pama-Nyungan,Yidinic,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,166.133,12,199,Aust_NG_Mel
 209,Yindjibarndi,Australia,-21.5,117.0,yind1247,yij,Pama-Nyungan,Pilbara,,,,,false,Australia-New Guinea,Australia,AU,false,false,355.0,137.0,330,330,Aust_NG_Mel
 210,Yingkarta,Australia,-24.5,114.833,ying1247,yia,Pama-Nyungan,Kardu,,,,,false,Australia-New Guinea,Australia,AU,false,false,147.0,134.833,5,199,Aust_NG_Mel
@@ -491,7 +491,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 490,Koryak,Eurasia,61.0,167.0,kory1246,kpy,Chukotko-Kamchatkan,Main,Northern,,,,false,Eurasia,North Pacific,RU,false,false,0.0,187.0,8743,8743,NthEurasia_Circumpolar
 491,Itelmen,Eurasia,57.0,157.5,itel1242,itl,Chukotko-Kamchatkan,Main,Southern,,,,false,Eurasia,North Pacific,RU,false,false,133.0,177.5,3189,3189,NthEurasia_Circumpolar
 492,Chumash,North America,34.67,-120.25,barb1263,boi,Chumash,,,,,,true,North America,California,US,false,false,277.0,259.75,156,249,Americas_North_West
-493,Coahuilteco,North America,28.0,-100.0,,xxx,Coahuilteco,,,,,,true,North America,Western North America,US,false,false,164.0,280.0,0,399,Americas_East
+493,Coahuilteco,North America,28.0,-100.0,coah1252,xxx,Coahuilteco,,,,,,true,North America,Western North America,US,false,false,164.0,280.0,0,399,Americas_East
 494,Daga,Papunesia,-10.0,149.25,daga1275,dgz,Trans New Guinea,Southeast,,,,,false,Australia-New Guinea,South New Guinea,PG,false,true,1015.0,169.25,9000,9000,Aust_NG_Mel
 495,Kolami,Eurasia,20.0,78.5,nort2699,kfb,Dravidian,Central,,,,,false,Eurasia,South Asia,IN,false,false,261.0,98.5,200000,200000,MiddleOldWorld
 496,Brahui,Eurasia,29.0,67.0,brah1256,brh,Dravidian,North,,,,,false,Eurasia,South Asia,PK,false,false,1525.0,87.0,2220000,2220000,MiddleOldWorld
@@ -634,7 +634,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 633,Tamagario,Papunesia,-6.5,139.0,tama1336,tcg,Trans New Guinea,Kayagar,,,,,false,Australia-New Guinea,South New Guinea,ID,false,true,13.0,159.0,3500,3500,Aust_NG_Mel
 634,Laguna,North America,35.25,-107.33,west2632,kjq,Keresan,Western,,,,,false,North America,Western North America,US,false,false,1900.0,272.67,3390,3390,Americas_CentralExtend
 635,Santa Ana,North America,35.42,-106.67,east1472,kee,Keresan,Eastern,,,,,false,North America,Western North America,US,false,false,1662.0,273.33,4580,4580,Americas_CentralExtend
-636,||Ana,Africa,-22.2,22.4,,xxx,Khoe,Khoe,Kalahari,,,,false,Africa,Southern Africa,BW,false,false,991.0,42.4,1000,1000,Africa_SubSaharan
+636,||Ana,Africa,-22.2,22.4,anaa1239,xxx,Khoe,Khoe,Kalahari,,,,false,Africa,Southern Africa,BW,false,false,991.0,42.4,1000,1000,Africa_SubSaharan
 637,Nama,Africa,-23.0,22.0,nama1264,naq,Khoe,Khoe,Juu-Tuu,,,,false,Africa,Southern Africa,BW,false,false,1001.0,42.0,251100,251100,Africa_SubSaharan
 638,Korana,Africa,-26.0,22.0,kora1292,kqz,Khoe,Khoe,Juu-Tuu,,,,false,Africa,Southern Africa,ZA,false,false,903.0,42.0,10000,10000,Africa_SubSaharan
 639,||Gana,Africa,-19.0,22.5,gana1274,gnk,Khoe,Khoe,Kalahari,,,,false,Africa,Southern Africa,AO,false,false,1011.0,42.5,790,790,Africa_SubSaharan
@@ -844,7 +844,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 843,Temne,Africa,8.67,-13.08,timn1235,tem,Niger-Kongo,Atlantic,Southern,,,,false,Africa,West Africa,SL,false,false,0.0,6.92,1230000,1230000,Africa_SubSaharan
 844,Bambara,Africa,12.5,-7.5,bamb1269,bam,Mande,Western,,,,,false,Africa,West Africa,ML,false,false,355.0,12.5,2772340,2772340,Africa_SubSaharan
 845,Kpelle,Africa,7.0,-10.0,libe1247,xpe,Mande,Western,,,,,false,Africa,West Africa,LR,false,false,206.0,10.0,487000,487000,Africa_SubSaharan
-846,Mandinka,Africa,13.0,-15.67,,man,Mande,Western,,,,,false,Africa,West Africa,SN,false,false,0.0,4.33,1346000,1346000,Africa_SubSaharan
+846,Mandinka,Africa,13.0,-15.67,mand1436,man,Mande,Western,,,,,false,Africa,West Africa,SN,false,false,0.0,4.33,1346000,1346000,Africa_SubSaharan
 847,Mandinka_Gambia,Africa,13.0,-15.0,mand1436,mnk,Mande,Western,,,,,false,Africa,West Africa,GM,false,false,0.0,5.0,510000,510000,Africa_SubSaharan
 848,Maninka,Africa,13.0,-10.0,east2426,emk,Mande,Western,,,,,false,Africa,West Africa,ML,false,false,295.0,10.0,100000,100000,Africa_SubSaharan
 849,Mende,Africa,8.0,-11.5,mend1266,men,Mande,Western,,,,,false,Africa,West Africa,SL,false,false,0.0,8.5,1499700,1499700,Africa_SubSaharan
@@ -1033,7 +1033,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1032,Omaha,North America,42.0,-97.25,omah1247,oma,Siouan,Dhegiha,,,,,false,North America,Western North America,US,false,false,507.0,282.75,365,365,Americas_East
 1033,Osage,North America,37.0,-94.0,osag1243,osa,Siouan,Dhegiha,,,,,false,North America,Eastern North America,US,false,false,393.0,286.0,249,249,Americas_East
 1034,Rawo-Poko,Papunesia,-2.8,141.583,rawo1244,rwa,Skou,Central,,,,,false,Australia-New Guinea,North New Guinea,PG,false,true,31.0,161.583,640,640,Aust_NG_Mel
-1035,Womo,Papunesia,-2.917,141.833,,xxx,Skou,Central,,,,,false,Australia-New Guinea,North New Guinea,PG,false,true,0.0,161.833,500,500,Aust_NG_Mel
+1035,Womo,Papunesia,-2.917,141.833,womo1239,xxx,Skou,Central,,,,,false,Australia-New Guinea,North New Guinea,PG,false,true,0.0,161.833,500,500,Aust_NG_Mel
 1036,I’saka,Papunesia,-2.9,141.4,kris1246,ksi,Skou,South,,,,,false,Australia-New Guinea,North New Guinea,PG,false,true,209.0,161.4,420,420,Aust_NG_Mel
 1037,Dumo,Papunesia,-2.667,141.25,vani1248,vam,Skou,West,,,,,false,Australia-New Guinea,North New Guinea,PG,false,true,0.0,161.25,2670,2670,Aust_NG_Mel
 1038,Skou,Papunesia,-2.667,140.917,nucl1634,skv,Skou,West,,,,,false,Australia-New Guinea,North New Guinea,ID,false,true,0.0,160.917,700,700,Aust_NG_Mel
@@ -1061,7 +1061,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1060,Chontal,North America,16.3,-95.5,lowl1260,clo,Tequistlatecan,,,,,,false,North America,Central America,MX,false,false,181.0,284.5,3600,3600,Americas_CentralExtend
 1061,Ticuna,South America,-3.5,-68.0,ticu1245,tca,Ticuna,,,,,,true,South America,Amazon,PE,false,false,109.0,312.0,8000,8000,Americas_East
 1062,Cuiba,South America,6.5,-70.5,cuib1242,cui,Guahiban,,,,,,false,South America,Amazon,CO,false,false,112.0,309.5,2830,2830,Americas_East
-1063,Timucua,North America,30.25,-82.5,,xxx,Timucua,,,,,,true,North America,Eastern North America,US,false,false,51.0,297.5,0,399,Americas_East
+1063,Timucua,North America,30.25,-82.5,timu1245,xxx,Timucua,,,,,,true,North America,Eastern North America,US,false,false,51.0,297.5,0,399,Americas_East
 1064,Tol,North America,14.75,-85.0,toll1241,jic,Jicaque,,,,,,false,South America,Central America,HN,false,false,1178.0,295.0,593,593,Americas_CentralExtend
 1065,Tonkawa,North America,30.0,-95.0,tonk1249,tqw,Tonkawa,,,,,,true,North America,Western North America,US,false,false,87.0,285.0,0,399,Americas_East
 1066,Orya,Papunesia,-2.667,139.917,orya1242,ury,Orya,,,,,,true,Australia-New Guinea,North New Guinea,ID,false,true,315.0,159.917,1600,1600,Aust_NG_Mel
@@ -1292,7 +1292,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1291,Pendau,Papunesia,0.0,119.83,pend1242,ums,Austronesian,Malayo-Polynesian,Celebic,TominiTolitoli,,,false,SE Asia & Oceania,Pacific,ID,false,false,0.0,139.83,4500,4500,SEAsiaInsularPacific
 1292,Dom,Papunesia,-6.0,144.917,domm1246,doa,Trans New Guinea,Chimbu,,,,,false,Australia-New Guinea,New Guinea Highlands,PG,false,true,1733.0,164.917,16000,16000,Aust_NG_Mel
 1293,Kunjen,Australia,-16.5,142.0,kunj1245,kjn,Pama-Nyungan,Central Paman,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,162.0,300,300,Aust_NG_Mel
-1294,Gabigabi,Australia,-25.5,153.0,,xxx,Pama-Nyungan,WakaKabic,,,,,false,Australia-New Guinea,Australia,AU,false,false,0.0,173.0,0,199,Aust_NG_Mel
+1294,Gabigabi,Australia,-25.5,153.0,gabi1248,xxx,Pama-Nyungan,WakaKabic,,,,,false,Australia-New Guinea,Australia,AU,false,false,0.0,173.0,0,199,Aust_NG_Mel
 1295,Dharawal,Australia,-34.5,150.5,thur1254,tbh,Pama-Nyungan,Yuin,,,,,false,Australia-New Guinea,Australia,AU,false,false,778.0,170.5,0,199,Aust_NG_Mel
 1296,Nyungar,Australia,-33.75,116.0,nyun1247,nys,Pama-Nyungan,South-west,,,,,false,Australia-New Guinea,Australia,AU,false,false,0.0,136.0,170,170,Aust_NG_Mel
 1297,Sindhi,Eurasia,26.0,69.0,sind1272,snd,Indo-European,Indo-Iranian,Indic,Northwest,Sindhi,,false,Eurasia,South Asia,PK,false,false,19.0,89.0,2800000,2800000,MiddleOldWorld
@@ -1364,10 +1364,10 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1363,Kambran,Papunesia,-2.78,132.7,bedo1237,bed,Austronesian,Malayo-Polynesian,Eastern Malayo-Polynesian,South Halmahera-West New Guinea,South Halmahera,,false,SE Asia & Oceania,North New Guinea,ID,false,false,0.0,152.7,600,600,Aust_NG_Mel
 1364,Yarik,Papunesia,-2.7,132.6,erok1237,erw,Austronesian,Malayo-Polynesian,Eastern Malayo-Polynesian,South Halmahera-West New Guinea,South Halmahera,,false,SE Asia & Oceania,North New Guinea,ID,false,false,0.0,152.6,500,500,Aust_NG_Mel
 1365,Sekar,Papunesia,-2.7,132.43,seka1247,skz,Austronesian,Malayo-Polynesian,North Bomberai,,,,false,SE Asia & Oceania,North New Guinea,ID,false,false,0.0,152.43,2000,2000,Aust_NG_Mel
-1366,Wulguru,Australia,-19.25,146.5,,xxx,Pama-Nyungan,GreaterMari,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,166.5,0,199,Aust_NG_Mel
+1366,Wulguru,Australia,-19.25,146.5,wulg1239,xxx,Pama-Nyungan,GreaterMari,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,0.0,166.5,0,199,Aust_NG_Mel
 1367,Magahi,Eurasia,24.5,85.5,maga1260,mag,Indo-European,Indo-Iranian,Indic,Eastern,Bengali-Assamese,,false,Eurasia,South Asia,IN,false,false,166.5,105.5,12000000,12000000,MiddleOldWorld
 1368,Nanchang,Eurasia,28.7,115.9,ganc1239,gan,Tibeto-Burman,Sinitic,Gan,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,25.0,135.9,25000000,25000000,MiddleOldWorld
-1369,Rajasthani,Eurasia,26.57,73.83,,raj,Indo-European,Indo-Iranian,Indic,Central,Rajasthani,,false,Eurasia,South Asia,IN,false,false,400.0,93.83,80000000,80000000,MiddleOldWorld
+1369,Rajasthani,Eurasia,26.57,73.83,raja1256,raj,Indo-European,Indo-Iranian,Indic,Central,Rajasthani,,false,Eurasia,South Asia,IN,false,false,400.0,93.83,80000000,80000000,MiddleOldWorld
 1370,Darma,Eurasia,29.84,80.517,darm1243,drd,Tibeto-Burman,Western Himalayan,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,2000.0,100.517,4000,4000,MiddleOldWorld
 1371,Dongwang,Eurasia,28.25,99.55,kham1282,khg,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,2500.0,119.55,6500,6500,MiddleOldWorld
 1372,Hajong,Eurasia,26.2,90.5,hajo1238,haj,Indo-European,Indo-Iranian,Indic,Eastern,Bengali-Assamese,,false,Eurasia,South Asia,IN,false,false,36.0,110.5,60000,60000,MiddleOldWorld
@@ -1411,7 +1411,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1410,Ku Waru,Papunesia,-6.0,144.15,,xxx,Trans New Guinea,Chimbu,,,,,false,Australia-New Guinea,New Guinea Highlands,PG,false,true,1400.0,164.15,40000,40000,Aust_NG_Mel
 1411,Kaugel,Papunesia,-5.95,144.167,umbu1258,ubu,Trans New Guinea,Chimbu,,,,,false,Australia-New Guinea,New Guinea Highlands,PG,false,true,1490.0,164.167,34200,34200,Aust_NG_Mel
 1412,Jahai,Eurasia,5.9,101.5,jeha1242,jhi,Austroasiatic,Aslian,,,,,false,SE Asia & Oceania,Southeast Asia,MY,false,false,325.0,121.5,1000,1843,SEAsiaInsularPacific
-1413,Egyptian_Ancient,Africa,29.0,29.0,,xxx,Afro-Asiatic,Egyptian,,,,,false,Africa,North Africa,EG,true,false,0.0,49.0,0,292999,MiddleOldWorld
+1413,Egyptian_Ancient,Africa,29.0,29.0,egyp1246,xxx,Afro-Asiatic,Egyptian,,,,,false,Africa,North Africa,EG,true,false,0.0,49.0,0,292999,MiddleOldWorld
 1414,Old Church Slavonic,Eurasia,42.0,25.0,chur1257,chu,Indo-European,Balto-Slavic,Slavic,,,,false,Eurasia,Europe,SK,true,false,250.0,45.0,0,4999999,MiddleOldWorld
 1415,Wambule,Eurasia,27.12,86.45,wamb1257,wme,Tibeto-Burman,Kiranti,,,,,false,SE Asia & Oceania,South Asia,NP,false,false,350.0,106.45,5000,5000,MiddleOldWorld
 1416,Jero,Eurasia,27.2,86.25,jeru1240,jee,Tibeto-Burman,Kiranti,,,,,false,SE Asia & Oceania,South Asia,NP,false,false,925.0,106.25,2000,2000,MiddleOldWorld
@@ -1518,7 +1518,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1517,Hmar,Eurasia,25.0,92.2,hmar1241,hmr,Tibeto-Burman,Kuki-Chin-Naga,Kuki-Chin,Central,,,false,SE Asia & Oceania,South Asia,IN,false,false,200.0,112.2,50000,50000,MiddleOldWorld
 1518,Nobiin,Africa,21.0,31.0,nobi1240,fia,Nilo-Saharan,Nubian,,,,,false,Africa,North Africa,SD,false,false,333.0,51.0,600000,600000,Africa_SubSaharan
 1519,Tutsa,Eurasia,26.9,95.6,tuts1235,tvt,Tibeto-Burman,Konyak,,,,,false,SE Asia & Oceania,Southeast Asia,IN,false,false,700.0,115.6,25000,25000,MiddleOldWorld
-1520,Kukatj,Australia,-17.7,140.9,,xxx,Pama-Nyungan,,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,20.0,160.9,0,199,Aust_NG_Mel
+1520,Kukatj,Australia,-17.7,140.9,kuka1246,xxx,Pama-Nyungan,,,,,,false,Australia-New Guinea,Northern Australia,AU,false,false,20.0,160.9,0,199,Aust_NG_Mel
 1521,Miji,Eurasia,27.54,92.6,saja1240,sjl,Tibeto-Burman,Hrusish,,,,,false,SE Asia & Oceania,South Asia,IN,false,false,2500.0,112.6,6500,6500,MiddleOldWorld
 1522,Amarasi,Papunesia,-10.08,124.33,amar1273,aaz,Austronesian,Malayo-Polynesian,Timoric,,,,false,SE Asia & Oceania,Pacific,ID,false,false,200.0,144.33,80000,80000,SEAsiaInsularPacific
 1523,Souw Amana Teru,Papunesia,-3.58,128.3,tule1244,tlu,Austronesian,Malayo-Polynesian,Central Maluku,,,,false,SE Asia & Oceania,Pacific,ID,false,false,0.0,148.3,18000,18000,SEAsiaInsularPacific
@@ -1532,16 +1532,16 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1531,Pagu,Papunesia,1.1,127.7,pagu1249,pgu,West Papuan,North Halmahera,main,,,,false,Australia-New Guinea,Pacific,ID,false,true,50.0,147.7,3310,3310,Aust_NG_Mel
 1532,Dadua,Papunesia,-8.135,125.638,galo1243,gal,Austronesian,Malayo-Polynesian,Timoric,,,,false,SE Asia & Oceania,Pacific,TL,false,false,0.0,145.638,1200,1200,SEAsiaInsularPacific
 1533,Kéo,Papunesia,-8.83,121.25,keoo1238,xxk,Austronesian,Malayo-Polynesian,Flores-Sawu-Sumba,Flores,,,false,SE Asia & Oceania,Pacific,ID,false,false,0.0,141.25,40000,40000,SEAsiaInsularPacific
-1534,Nzadi,Africa,-4.05,19.65,,xxx,Niger-Kongo,Bantoid,Southern,Narrow Bantu,Northwest,B,false,Africa,Southern Africa,ZR,false,false,390.0,39.65,,,Africa_SubSaharan
+1534,Nzadi,Africa,-4.05,19.65,nzad1234,xxx,Niger-Kongo,Bantoid,Southern,Narrow Bantu,Northwest,B,false,Africa,Southern Africa,ZR,false,false,390.0,39.65,,,Africa_SubSaharan
 1535,Balantak,Papunesia,-0.82,123.431,bala1315,blz,Austronesian,Malayo-Polynesian,Celebic,,,,false,SE Asia & Oceania,Pacific,ID,false,false,0.0,143.431,30000,30000,SEAsiaInsularPacific
-1536,U,Eurasia,22.6,101.7,,xxx,Austroasiatic,Palaungic,,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1240.0,121.7,40000,40000,SEAsiaInsularPacific
+1536,U,Eurasia,22.6,101.7,uuuu1243,xxx,Austroasiatic,Palaungic,,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1240.0,121.7,40000,40000,SEAsiaInsularPacific
 1537,Surin Khmer,Eurasia,15.0,103.75,nort2684,kxm,Austroasiatic,Khmer,,,,,false,SE Asia & Oceania,Southeast Asia,TH,false,false,150.0,123.75,1000000,1000000,SEAsiaInsularPacific
 1538,Gojri,Eurasia,33.0,76.0,guja1253,gju,Indo-European,Indo-Iranian,Indic,Central,Gujarati,,false,Eurasia,South Asia,IN,false,false,3400.0,96.0,992000,1600000,MiddleOldWorld
 1539,Tsum,Eurasia,28.51,85.08,tsum1240,ttz,Tibeto-Burman,Bodic,Bodish,Tibetan,Central,,false,SE Asia & Oceania,South Asia,NP,false,false,3200.0,105.08,4800,4800,MiddleOldWorld
 1540,Mru,Eurasia,21.45,92.5,mruu1242,mro,Tibeto-Burman,Mru,,,,,false,SE Asia & Oceania,Southeast Asia,BD,false,false,335.0,112.5,50000,50000,SEAsiaInsularPacific
 1541,Hlersu,Eurasia,24.05,101.975,hler1235,hle,Tibeto-Burman,Lolo-Burmese,Burmish,Central,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1950.0,121.975,15000,15000,MiddleOldWorld
 1542,Buyuan Jino,Eurasia,22.05,101.0,buyu1238,jiy,Tibeto-Burman,Lolo-Burmese,Burmish,Central,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,980.0,121.0,1000,1000,SEAsiaInsularPacific
-1543,Sadu,Eurasia,24.35,102.525,,xxx,Tibeto-Burman,Lolo-Burmese,Burmish,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1880.0,122.525,1505,1505,MiddleOldWorld
+1543,Sadu,Eurasia,24.35,102.525,sadu1234,xxx,Tibeto-Burman,Lolo-Burmese,Burmish,,,,false,SE Asia & Oceania,Southeast Asia,CN,false,false,1880.0,122.525,1505,1505,MiddleOldWorld
 1544,||Ani,Africa,-19.0,22.47,anii1246,hnh,Khoe,Khoe,Kalahari,,,,false,Africa,Southern Africa,ZA,false,false,980.0,42.47,1000,1000,Africa_SubSaharan
 1545,Tsat,Eurasia,18.25,109.5,tsat1238,huq,Austronesian,Malayo-Polynesian,Malayo-Sumbawan,Malayo-Chamic,Chamic,,false,Eurasia,Southeast Asia,CN,false,false,0.0,129.5,3800,3800,MiddleOldWorld
 1546,Sasak,Papunesia,-8.67,116.5,sasa1249,sas,Austronesian,Malayo-Polynesian,Malayo-Sumbawan,Malayo-Chamic,Bali-Sasak-Sumbawa,,false,SE Asia & Oceania,Southeast Asia,ID,false,false,0.0,136.5,2100000,2100000,SEAsiaInsularPacific
@@ -1586,7 +1586,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 1585,Hresuk,Papunesia,-8.22,125.61,adab1235,adb,Austronesian,Malayo-Polynesian,Timoric,,,,false,SE Asia & Oceania,Pacific,TL,false,false,0.0,145.61,5000,5000,
 1586,Keuw,,-3.2,136.2,kehu1238,khh,Keuw,,,,,,true,S,,,false,true,220.0,156.2,150,150,
 1587,Dahalik,,15.75,40.25,daha1247,dlk,Afro-Asiatic,Semitic,,,,,false,S,,,false,false,0.0,60.25,,,
-1588,Kaera,Papunesia,-8.38,124.21,,xxx,Timor-Alor-Pantar,Alor-Pantar,Pantar,,,,false,Australia-New Guinea,Pacific,ID,false,true,0.0,144.21,5500,5500,SEAsiaInsularPacific
+1588,Kaera,Papunesia,-8.38,124.21,kaer1234,xxx,Timor-Alor-Pantar,Alor-Pantar,Pantar,,,,false,Australia-New Guinea,Pacific,ID,false,true,0.0,144.21,5500,5500,SEAsiaInsularPacific
 1589,Old Khmer,Eurasia,13.413,103.867,cent1989,khm,Austroasiatic,Khmer,,,,,false,SE Asia & Oceania,,KH,true,false,40.0,123.867,0,,SEAsiaInsularPacific
 1590,Wyandot,North America,48.861,-71.357,waya1269,way,Iroquoian,Northern,,,,,false,North America,,US,false,false,150.0,-51.357,0,4000,Americas_North_West
 2001,Aché,South America,-25.25,-55.17,ache1246,guq,Tupi,Tupi-Guarani,Guarani,,,,false,South America,Patagonia,PY,false,false,234.0,324.83,1360,1360,Americas_East
@@ -3784,7 +3784,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Lineage_0,Lineage_1
 4193,Aymara_Muylaq',South America,-16.675,-70.712,cent2142,ayr,Aymaran,,,,,,false,South America,Andes,PE,false,false,3100.0,-50.712,0,,Americas_CentralExtend
 4194,Kildin Sami,Eurasia,67.67,35.9,kild1236,sjd,Uralic,Samoyedic,,,,,false,Eurasia,Europe,NO,false,false,0.0,55.9,150,150,MiddleOldWorld
 4195,Latgalian,Eurasia,56.5,27.5,east2282,ltg,Indo-European,Balto-Slavic,,,,,false,Eurasia,Europe,LV,false,false,140.0,47.5,170000,170000,NthEurasia_Circumpolar
-4196,Puquina,South America,-15.5,-69.25,,,Puquina,,,,,,true,South America,Andes,PE,true,false,4500.0,-49.25,0,,Americas_CentralExtend
+4196,Puquina,South America,-15.5,-69.25,puqu1242,,Puquina,,,,,,true,South America,Andes,PE,true,false,4500.0,-49.25,0,,Americas_CentralExtend
 4197,Sogdian,,,,sogd1245,sog,,,,,,,,,,,,,,,,,MiddleOldWorld
 4198,Sarikoli,,,,sari1246,srh,,,,,,,,,,,,,,,,,MiddleOldWorld
 4199,Old Persian,,,,oldp1254,peo,,,,,,,,,,,,,,,,,MiddleOldWorld

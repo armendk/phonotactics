@@ -35,3 +35,4 @@ Totalplosives,integer
 Totalrhotics,integer
 Totalsonorants,integer
 Totalvowels,integer
+Arezeroonsetsallowed,boolean
